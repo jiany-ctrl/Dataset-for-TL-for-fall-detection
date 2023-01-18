@@ -17,7 +17,9 @@ Huawei Smartwatch Dataset contains the data of 11 volunteers, each volunteer's d
 [Huawei smartwatch dataset](https://github.com/jiany-ctrl/Dataset-for-TL-for-fall-detection/blob/main/Huawei_dataset.zip)   
 
 
-## Dataset collection software
+## Activity labeler
+
+Huawei watch is compatible with AndroidWearOS and we designed and implemented an activity labelling app on both the watch and the Android phone for data collection. This activity labeler consists of two components: one on the phone and one on the watch. The watch is paired with the phone using Bluetooth and collects, labels, and sends accelerometer data to the phone in real-time. The phone is considered as a gateway device where labeled data can be stored temporarily and then uploaded to a remote cloud server periodically. The app records accelerometer data sensed from the Huawei watch with a start and stop button, and a user can enter what kind of activity is being recorded before pressing the start button so that the data comes out labeled with a specific activity label name.
 
 
 
