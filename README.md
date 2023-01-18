@@ -15,3 +15,27 @@ Falls in the elderly are associated with significant morbidity and mortality. Wh
 Huawei Smartwatch Dataset contains the data of 11 volunteers, each volunteer's data contains several ADL (labelled 0) tasks such as walking, washing hands, drinking water, etc..., as well as fall data, specifically 4 different types of falls (front, back, left, right) and 4 falls per type, totalling out to 16 falls per volunteer. The dataset from both wrists was split into a 70%/30% Train/Test split and the download link is as follows:
 
 [Huawei smartwatch dataset](https://github.com/jiany-ctrl/Dataset-for-TL-for-fall-detection/blob/main/Huawei_dataset.zip)   
+
+
+## Citation
+If you find this repository useful, please consider citing the following paper:
+
+
+```
+@Article{s23031105,
+AUTHOR = {Maray, Nader and Ngu, Anne Hee and Ni, Jianyuan and Debnath, Minakshi and Wang, Lu},
+TITLE = {Transfer Learning on Small Datasets for Improved Fall Detection},
+JOURNAL = {Sensors},
+VOLUME = {23},
+YEAR = {2023},
+NUMBER = {3},
+ARTICLE-NUMBER = {1105},
+URL = {https://www.mdpi.com/1424-8220/23/3/1105},
+ISSN = {1424-8220},
+DOI = {10.3390/s23031105}
+}
+```
+
+
+
+
