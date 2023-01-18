@@ -12,4 +12,4 @@ Falls in the elderly are associated with significant morbidity and mortality. Wh
 
 ## Datasets
 
-[Huawei watch&phone dataset]([https://github.com/jiany-ctrl/Dataset-for-TL-for-fall-detection/blob/main/Huawei_dataset.zip])   
+[Huawei watch&phone dataset](https://github.com/jiany-ctrl/Dataset-for-TL-for-fall-detection/blob/main/Huawei_dataset.zip)   
