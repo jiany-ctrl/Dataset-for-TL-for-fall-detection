@@ -12,4 +12,6 @@ Falls in the elderly are associated with significant morbidity and mortality. Wh
 
 ## Datasets
 
-[Huawei watch&phone dataset](https://github.com/jiany-ctrl/Dataset-for-TL-for-fall-detection/blob/main/Huawei_dataset.zip)   
+Huawei Smartwatch Dataset contains the data of 11 volunteers, each volunteer's data contains several ADL (labelled 0) tasks such as walking, washing hands, drinking water, etc..., as well as fall data, specifically 4 different types of falls (front, back, left, right) and 4 falls per type, totalling out to 16 falls per volunteer. The dataset from both wrists was split into a 70%/30% Train/Test split and the download link is as follows:
+
+[Huawei smartwatch dataset](https://github.com/jiany-ctrl/Dataset-for-TL-for-fall-detection/blob/main/Huawei_dataset.zip)   
